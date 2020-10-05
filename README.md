@@ -1,1 +1,5 @@
-# image-processing
+# Image Processing
+Математические и компьютерные методы обработки изображений
+## Требования
+- Python 3
+- PyQt5
